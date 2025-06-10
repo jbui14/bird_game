@@ -48,7 +48,7 @@ Bird/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/bird-game-clone.git
+   git clone    git clone https://github.com/jbui14/bird_game.git
    cd bird-game-clone
    ```
 
