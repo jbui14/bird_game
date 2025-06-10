@@ -1,0 +1,4 @@
+Johnny Bui
+Project: Create your own game using Pygame
+
+The game is essentially a remake of flappy bird. Upon opening the game for the first time, we are welcomed with a welcome screen with instruction on how to play as well as previous high score. We are able to see the bird in its starting position. To play the game, simply press space. The objective of the game is to get as far as you can. There will be coins to collect to gather more points. Each time a pipe is passed, a point is granted to the player. Upon colliding or sinking to the bottom, the player loses and the score is reset. To start again, follow the instructions and press space when ready. There are appropriate sounds to match all of the events that may occur. I decided to not add an enemy to shoot at us as it feels like it would ruin the natural flow of the game. I opted for spawning coins at random as well as making animations and tilt effects to the bird.
